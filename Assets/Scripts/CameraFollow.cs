@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
-    // ※ 이 내용은 변경하지 말 것 ※
+    // ?????�용?� 변경하지 �?�???
     
     private Transform camT;
     [SerializeField] private Vector3 CamOffset;
